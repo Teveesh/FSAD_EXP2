@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
